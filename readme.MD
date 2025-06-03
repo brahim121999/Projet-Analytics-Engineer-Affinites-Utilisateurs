@@ -1,4 +1,4 @@
-# 🧠 Projet Analytics Engineer — Affinités Utilisateurs (DBT + DuckDB)
+## Projet Analytics Engineer — Affinités Utilisateurs (DBT + DuckDB)
 
 ## 🎯 Objectif
 
